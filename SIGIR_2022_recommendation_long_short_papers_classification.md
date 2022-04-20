@@ -18,7 +18,7 @@
 - [RL-based](#RL-based)
 - [Contrastive Learning based](#Contrastive-Learning-based)
 - [AutoML-based](#AutoML-based)
-- [Other technique](#Other technique)
+- [Other technique](#Other-technique)
 
  **3 Sort by topic(按研究话题划分)**
 
@@ -38,7 +38,7 @@
 - [Summarization](#Summarization)
 - [Multi-Modality](#Multi-Modality)
 - [Generation](#Generation)
-- [Representation Learning](#Representation Learning)
+- [Representation Learning](#Representation-Learning)
 
 ------
 
@@ -242,7 +242,7 @@
 - Denoising Time Cycle Modeling for Recommendation 【short paper，去噪时间循环建模】
 - Adversarial Graph Perturbations for Recommendations at Scale 【short paper，大规模推荐中的对抗图扰动】
 
-### Others topics
+### Other topics
 
 - Privacy-Preserving Synthetic Data Generation for Recommendation 【隐私保护的仿真数据生成】
 - User-Aware Multi-Interest Learning for Candidate Matching in Recommenders 【使用用户多兴趣学习进行候选匹配】
