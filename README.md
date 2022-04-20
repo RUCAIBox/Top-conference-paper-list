@@ -2,7 +2,8 @@
 In this repository, we collect the top conference papers under the topic of natural language processing,  recommender system and other related areas. 
 
 We organize the papers by the conference and sort them into several small research topics based on our experience.  
-Welcome star and PR !
+
+Welcome star and PR :)
 
 [ACL 2022 |main conference long paper classification (主会长文分类)](./ACL_2022_main_long_papers_classification.md)
 
