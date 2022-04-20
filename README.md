@@ -5,4 +5,4 @@ Welcome PR !
 
 [ACL 2022 |main conference long paper classification (主会长文分类)](./ACL_2022_main_long_papers_classification.md)
 
-[SIGIR 2022 |recommender system long and short paper classification (推荐系统长短文分类)]（./SIGIR_2022_recommendation_long_short_papers_classification.md）
+[SIGIR 2022 |recommender system long and short paper classification (推荐系统长短文分类)](./SIGIR_2022_recommendation_long_short_papers_classification.md)
