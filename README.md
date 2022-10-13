@@ -14,3 +14,5 @@ Welcome star and PR :)
 - [RecSys 2021 | recommender system research reproducibility LBR paper classification (RecSys 2021 推荐系统论文分类)](RecSys_2021_recommendation_papers.md)
 
 - [RecSys 2022 | recommender system research reproducibility LBR paper classification (RecSys 2022 推荐系统论文分类)](RecSys_2022_recommendation_papers.md)
+
+- [KDD 2021/2022 & AAAI 2022 | recommender system research reproducibility LBR paper classification (KDD 2021/2022 & AAAI 2022 推荐系统论文分类)](KDD2022_KDD2021_AAAI2022_RS_papers.md)
