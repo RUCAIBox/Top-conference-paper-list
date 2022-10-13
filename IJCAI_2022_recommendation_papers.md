@@ -8,8 +8,8 @@
 
 **2 Sort by main technique (按照主要技术划分)**
 
-- [Federated Learning based](#Federated Learning based)
-- [Graph Neural Network](#Graph Neural Network)
+- [Federated Learning based](#Federated-Learning-based)
+- [Graph Neural Network](#Graph-Neural-Network)
 
 
  **3 Sort by topic (按研究话题划分)**
